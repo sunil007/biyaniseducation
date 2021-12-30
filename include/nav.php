@@ -8,6 +8,7 @@
 				<div class='container text-right'>
 					<ul class="social-icons hideInMobile" style='border: none;'>
 						<li><a target='_blank' style='color:#fff;' href="./assets/pdf/biyani super 30 brochure c2c version 18 low res.pdf"><span class="fa fa-download" aria-hidden="true"></span> Prospectus</a></li>
+						<li><a href="tel:+91 8898-512-070" style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;'><span class="fa fa-phone" aria-hidden="true"></span></a></li>
 						<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="https://api.whatsapp.com/send/?phone=918898512070&text=Hello+Biyani%27s&app_absent=0"><span class="fa fa-whatsapp" aria-hidden="true"></span></a></li>
 						<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="https://www.facebook.com/biyanissuper30/"><span class="fa fa-facebook" aria-hidden="true"></span></a></li>
 						<li><a target='_blank' style='color:#fff;border-left: 1px solid #cfcfcf;padding-left: 25px;' href="#url"><span class="fa fa-linkedin" aria-hidden="true"></span></a></li>

@@ -8,7 +8,7 @@
         </button>
       </div>
       <div class="modal-body">
-        <form action="#" onsubmit="return generateEnquiry(this)" method="post">
+        <form action="#" onsubmit="return generateEnquiry(this)" method="post" class="noMargin">
 			<span class="rightside-form">
 				<input type="name" class="form-control" name="name" placeholder="Enter your name" required>
 			</span>
