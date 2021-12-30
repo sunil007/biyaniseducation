@@ -19,7 +19,7 @@
               <div class="column2">
                 <div class="href1"><span class="fa fa-envelope-o" aria-hidden="true"></span><a href="mailto:biyanisjeeneet@gmail.com">biyanisjeeneet@gmail.com</a>
                 </div>
-                <div class="href2"><span class="fa fa-phone" aria-hidden="true"></span><a href="tel:+91-8454-88-8439">+91 8454-88-8439</a>
+                <div class="href2"><span class="fa fa-phone" aria-hidden="true"></span><a href="tel:+91-8898-512-070">+91 8898-512-070</a>
                 </div>
                 <div>
                   <p class="contact-para"><span class="fa fa-map-marker" aria-hidden="true"></span>Shop no. 103/104, Dev Paradise, Kanakia Road, Mira Road (E), Thane - 401107.</p>
@@ -37,14 +37,14 @@
         <div class="copyright-footer">
           <div class="columns">
             <ul class="social text-lg-left text-center">
-              <li><a target='_blank' href="https://api.whatsapp.com/send/?phone=917900040194&text=Hello+Biyani%27s%20JEE%20NEET%20Private!&app_absent=0"><span class="fa fa-whatsapp" aria-hidden="true"></span></a></li>
-              <li><a target='_blank' href="https://www.facebook.com/Biyanis-JEE-NEET-Private-102050525281179"><span class="fa fa-facebook" aria-hidden="true"></span></a></li>
+              <li><a target='_blank' href="https://api.whatsapp.com/send/?phone=918898-512-070&text=Hello+Biyani%27s&app_absent=0"><span class="fa fa-whatsapp" aria-hidden="true"></span></a></li>
+              <li><a target='_blank' href="https://www.facebook.com/biyanissuper30/"><span class="fa fa-facebook" aria-hidden="true"></span></a></li>
               <li><a target='_blank' href="#"><span class="fa fa-linkedin" aria-hidden="true"></span></a></li>
-              <li><a target='_blank' href="https://www.instagram.com/biyanisjeeneetprivate/?hl=en"><span class="fa fa-instagram" aria-hidden="true"></span></a></li>
+              <li><a target='_blank' href="https://www.instagram.com/biyanis_super30?hl=en"><span class="fa fa-instagram" aria-hidden="true"></span></a></li>
             </ul>
           </div>
           <div class="columns text-lg-right text-center">
-            <p>&copy; 2021 Biyani's Education Group. All Rights Reserved</p>
+            <p>&copy; 2022 Biyani's Education Group. All Rights Reserved</p>
           </div>
         </div>
       </div>
