@@ -76,6 +76,10 @@ body {
   text-align: left;
   background-color: #fff; }
 
+.grecaptcha-badge{
+	display:none;
+}
+
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important; }
 
