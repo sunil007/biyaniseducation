@@ -4,6 +4,8 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta property="og:site_name" content="Biyani's Education Group"/>
+  <meta property="og:image" content="https://www.biyaniseducationgroup.com/assets/images/biyanis education group.png"/>
   <title>Biyani's Education Group</title>
   <!-- web fonts -->
   <link href="//fonts.googleapis.com/css?family=Roboto:400,700,900&display=swap" rel="stylesheet">
