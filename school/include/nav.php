@@ -29,7 +29,7 @@
 			<div class="container">
 				<nav class="navbar navbar-expand-lg navbar-light py-0 px-0" style='border-bottom: 2px solid #c52c4d;'>
 					<a class="navbar-brand" href="index.php">
-						<img class='logoImage' src="assets/images/biyanissuper30-logo-wide.png" alt="Biyani's Super 30" title="Biyani's Super 30" />
+						<img class='logoImage' src="assets/images/biyanissuper30-logo.png" alt="Biyani's Super 30" title="Biyani's Super 30" />
 					</a>
 					<div class="collapse navbar-collapse hideInMobile" id="navbarSupportedContent" style='justify-content: flex-end;' >
 						<div class="phone" style='margin-right: 1px;'>
