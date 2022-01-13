@@ -16,14 +16,8 @@
     <div class="container py-lg-3">
         <div class="header-section text-center mb-lg-5 mb-4">
 			<div style='height:40px'></div>
-            <h2 class='bottomUnderline'>Know Our Faculties</h2>
+            <h2 class='bottomUnderline'>Backbone of Biyani's Super 30</h2>
         </div>
-        <div class="row">
-			<div class="col-md-12">
-				<h3 class="mb-4 text-center"><span style='color: #8f2929;font-weight: bold;'>Backbone of Biyani's Super 30</span></h3>
-				<div style='height:40px'></div>
-			</div>
-		</div>
 		<div class='row'>
 			<div class='col-12 text-center'>
 				<span onclick='showProfs("#prof1", this)' style='cursor:pointer;' class='theme-button btn-outline-primary active'>Mr. Yashvardhan Biyani</span>
